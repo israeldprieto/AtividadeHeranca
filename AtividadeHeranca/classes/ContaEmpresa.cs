@@ -8,8 +8,8 @@ namespace AtividadeHeranca.classes
         public double TotalEmprestimo { get; set; }
 
         public ContaEmpresa(int nconta, string agencia, string nomeTit, double taxaAnuidade,
-            double limiteEmprestimo)
-            : base(nconta, agencia, nomeTit)
+            double limiteEmprestimo, double saldo)
+            : base(nconta, agencia, nomeTit, saldo)
         {
             TaxaAnuidade = taxaAnuidade;
             LimiteEmprestimo = limiteEmprestimo;

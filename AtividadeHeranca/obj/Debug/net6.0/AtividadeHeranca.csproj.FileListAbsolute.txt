@@ -3,3 +3,13 @@ C:\Users\2022102020064\source\repos\AtividadeHeranca\AtividadeHeranca\obj\Debug\
 C:\Users\2022102020064\source\repos\AtividadeHeranca\AtividadeHeranca\obj\Debug\net6.0\AtividadeHeranca.AssemblyInfoInputs.cache
 C:\Users\2022102020064\source\repos\AtividadeHeranca\AtividadeHeranca\obj\Debug\net6.0\AtividadeHeranca.AssemblyInfo.cs
 C:\Users\2022102020064\source\repos\AtividadeHeranca\AtividadeHeranca\obj\Debug\net6.0\AtividadeHeranca.csproj.CoreCompileInputs.cache
+C:\Users\2022102020064\source\repos\AtividadeHeranca\AtividadeHeranca\bin\Debug\net6.0\AtividadeHeranca.exe
+C:\Users\2022102020064\source\repos\AtividadeHeranca\AtividadeHeranca\bin\Debug\net6.0\AtividadeHeranca.deps.json
+C:\Users\2022102020064\source\repos\AtividadeHeranca\AtividadeHeranca\bin\Debug\net6.0\AtividadeHeranca.runtimeconfig.json
+C:\Users\2022102020064\source\repos\AtividadeHeranca\AtividadeHeranca\bin\Debug\net6.0\AtividadeHeranca.dll
+C:\Users\2022102020064\source\repos\AtividadeHeranca\AtividadeHeranca\bin\Debug\net6.0\AtividadeHeranca.pdb
+C:\Users\2022102020064\source\repos\AtividadeHeranca\AtividadeHeranca\obj\Debug\net6.0\AtividadeHeranca.dll
+C:\Users\2022102020064\source\repos\AtividadeHeranca\AtividadeHeranca\obj\Debug\net6.0\refint\AtividadeHeranca.dll
+C:\Users\2022102020064\source\repos\AtividadeHeranca\AtividadeHeranca\obj\Debug\net6.0\AtividadeHeranca.pdb
+C:\Users\2022102020064\source\repos\AtividadeHeranca\AtividadeHeranca\obj\Debug\net6.0\AtividadeHeranca.genruntimeconfig.cache
+C:\Users\2022102020064\source\repos\AtividadeHeranca\AtividadeHeranca\obj\Debug\net6.0\ref\AtividadeHeranca.dll
